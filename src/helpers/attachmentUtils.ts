@@ -1,6 +1,22 @@
-import * as AWS from 'aws-sdk'
-import * as AWSXRay from 'aws-xray-sdk'
-
-const XAWS = AWSXRay.captureAWS(AWS)
 
 // TODO: Implement the fileStogare logic
+
+export class AttachmentUtils {
+
+
+
+
+
+}
+
+// export const handler = middy(async (event: APIGatewayProxyEvent): Promise<APIGatewayProxyResult> => {
+
+
+    
+
+
+    
+// });
+
+
+
